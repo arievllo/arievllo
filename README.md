@@ -43,7 +43,7 @@
  ## Current Stack
  
  **AI, ML & Data Science**
- `Python` `scikit-learn` `statsmodels` `RAG` `LLMs` `Pandas` `NumPy`
+ `Python` `scikit-learn` `statsmodels` `RAG` `LLMs` `Pandas` `NumPy` `Julia` `C++`
  
  **Data Engineering & Warehouse**
  `SQL` `BigQuery` `Databricks` `GCP` `Cloud Run`
