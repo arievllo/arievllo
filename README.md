@@ -2,7 +2,7 @@
  
  # Yuri Carlos
  
- **Data & Automation Analyst → ML/AI Engineer**
+ **Analytics Engineer → ML/AI Engineer**
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurioli/)
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurioli.dev@gmail.com)
@@ -13,7 +13,7 @@
  
  ## About
  
- I am a Data & Automation Analyst moving into Machine Learning and AI Engineering. My background is in building production-grade ETL/ELT pipelines and scalable Data Warehouses, and today my focus is Data Science and MLOps.
+ I am a Analytics Engineer moving into Machine Learning and AI Engineering. My background is in building production-grade ETL/ELT pipelines and scalable Data Warehouses, and today my focus is Data Science and MLOps.
  
  I am pursuing a degree in Data Science (Class of '27) and studying advanced statistics, linear algebra, and the core fundamentals of ML, DL, and AI. I believe in understanding the math behind the models, not just deploying them.
  
